@@ -1,4 +1,4 @@
-##FLUO TECHNOLOGY DECLARATIONS
+FLUO TECHNOLOGY DECLARATIONS
 
 Fluo Technology products intended for sale and use in worldwide markets comply with the applicable international requirements 
 for product safety, electromagnetic compatibility (EMC), essential safety & usage information, WEEE, RoHS, 
@@ -7,21 +7,21 @@ Products delivered into the European Economic Area (EEA) comply with the directi
 Products delivered into North America comply with their respective directives. 
 The products bears CE and/or FCC marks which is tested and certified by Arduino to comply with the EC and/or USA directives.
 
-###SAFETY
+SAFETY
 
 All boards are labelled with the FCC and CE logo, as they meet the electromagnetic compatibility standards set in 
 their respective jurisdictions. Arduino/Genuino products meet the essential requirements 
 of EU Directive 2001/95/CE General directive on products safety and Directive 93/68/CE.
 
 
-###FCC COMPLIANCE
+FCC COMPLIANCE
 
 This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions: 
 (1) this device may not cause harmful interference, and (2) 
 this device must accept any interference received, including interference that may cause undesired operation.
 
 
-###NOTE
+NOTE
 
 This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant 
 to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful 
@@ -37,7 +37,7 @@ by one or more of the following measures:
 → Consult the dealer or an experienced radio/ TV technician for help.
 The following parties are responsible for the compliance of radio frequency equipment with the applicable standards: in the case of equipment subject to authorization under the verification procedure, the manufacturer or, in the case of imported equipment, the importer. If subsequent to manufacture and importation, the radio frequency equipment is modified by any party not working under the authority of the responsible party, the party performing the modification becomes the new responsible party.
 
-###TESTING
+TESTING
 
 Products are subject to triple testing to make sure they are not faulty:
 → First, printed circuit boards are thoroughly tested for short circuits and open connections.
@@ -48,7 +48,7 @@ and programmed by a test program, which checks its overall functionality.
 All boards are tested to meet USA and EU consumer safety, health and environmental requirements.
 
 
-##LIMITED CONVENTIONAL WARRANTY
+LIMITED CONVENTIONAL WARRANTY
  
 1.1 In addition to the legal warranty provided by the mandatory provisions of the applicable laws,  FLUO Technology hereby conventionally warrants that its products conform to the speciﬁcations indicated on the packaging of the product (the “Specifications”). This conventional warranty lasts for one (1) from the date of the sale.
 
