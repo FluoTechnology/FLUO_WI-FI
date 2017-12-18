@@ -32,4 +32,4 @@ If you have any questions or concerns on licensing, please contact support@fluot
 
 Distributed as-is; no warranty is given.
 
-    ;&nbsp;&nbsp; With :heart: from the FLUO Team.
+  *With* :heart: *from the FLUO Team.*
