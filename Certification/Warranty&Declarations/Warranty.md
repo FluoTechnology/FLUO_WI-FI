@@ -1,0 +1,78 @@
+##FLUO TECHNOLOGY DECLARATIONS
+
+Fluo Technology products intended for sale and use in worldwide markets comply with the applicable international requirements 
+for product safety, electromagnetic compatibility (EMC), essential safety & usage information, WEEE, RoHS, 
+quality, and for use in hazardous locations. 
+Products delivered into the European Economic Area (EEA) comply with the directives of the European Community (EC). 
+Products delivered into North America comply with their respective directives. 
+The products bears CE and/or FCC marks which is tested and certified by Arduino to comply with the EC and/or USA directives.
+
+###SAFETY
+
+All boards are labelled with the FCC and CE logo, as they meet the electromagnetic compatibility standards set in 
+their respective jurisdictions. Arduino/Genuino products meet the essential requirements 
+of EU Directive 2001/95/CE General directive on products safety and Directive 93/68/CE.
+
+
+###FCC COMPLIANCE
+
+This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions: 
+(1) this device may not cause harmful interference, and (2) 
+this device must accept any interference received, including interference that may cause undesired operation.
+
+
+###NOTE
+
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant 
+to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful 
+interference in a residential installation. This equipment generates, uses and can radiate radio frequency 
+energy and, if not installed and used in accordance with the instructions, may cause harmful interference 
+to radio communications. However, there is no guarantee that interference will not occur in a particular 
+installation. If this equipment does cause harmful interference to radio or television reception, which can 
+be determined by turning the equipment o and on, the user is encouraged to try to correct the interference 
+by one or more of the following measures:
+→ Reorient or relocate the receiving antenna;
+→ Increase the separation between the equipment and receiver;
+→ Connect the equipment into an outlet on a circuit different from that to which the receiver is connected;
+→ Consult the dealer or an experienced radio/ TV technician for help.
+The following parties are responsible for the compliance of radio frequency equipment with the applicable standards: in the case of equipment subject to authorization under the verification procedure, the manufacturer or, in the case of imported equipment, the importer. If subsequent to manufacture and importation, the radio frequency equipment is modified by any party not working under the authority of the responsible party, the party performing the modification becomes the new responsible party.
+
+###TESTING
+
+Products are subject to triple testing to make sure they are not faulty:
+→ First, printed circuit boards are thoroughly tested for short circuits and open connections.
+→ Then, boards are powered (and, in products containing a microcontroller, the bootloader is programmed) to check there 
+are no macroscopic problems preventing the board from turning on.
+→ Finally, the most in-depth test: the board is placed into a custom bed of nails tester, 
+and programmed by a test program, which checks its overall functionality.
+All boards are tested to meet USA and EU consumer safety, health and environmental requirements.
+
+
+##LIMITED CONVENTIONAL WARRANTY
+ 
+1.1 In addition to the legal warranty provided by the mandatory provisions of the applicable laws,  FLUO Technology hereby conventionally warrants that its products conform to the speciﬁcations indicated on the packaging of the product (the “Specifications”). This conventional warranty lasts for one (1) from the date of the sale.
+
+
+FLUO Technology shall not be liable for any defects that are caused by neglect, misuse, improper use or mistreatment by the Customer, including improper installation or testing, or for any products that have been altered or modiﬁed in any way by the Customer. Moreover, FLUO Technology shall not be liable for and does not guarantee the results that the Customer intends to obtain by using / installing on other products the design / speciﬁcations of FLUO Technology’s products. Since the products represent an open source to be used by their purchasers for prototyping / designing / developing other products, the testing and other quality control techniques are carried out only to the extent FLUO Technology deems useful.
+
+
+1.2 In order to be entitled to avail of this conventional warranty, the Customer shall (i) previously raise a claim directly through the website “fluotechnology.co.uk”, (ii) carry out the preliminary checking procedures on the products indicated therein and, if the problem persists, (iii) return the allegedly defective product to the point of sale where the Customer has purchased it:  all the foregoing within the essential terms of fourteen (14) days from the discovery of the alleged defects. If FLUO Technology ascertains that the above procedure has been timely and correctly carried out by the Customer and that the returned products actually fail to conform to the Specifications warranty set forth above and that, therefore, this conventional warranty applies, FLUO Technology's sole liability shall be to replace such products at its sole costs and expenses within a reasonable time. FLUO Technology’s liability shall be limited to products that are determined by FLUO Technology not to conform to  the  Specifications. Replaced products shall be warranted for a new full conventional warranty period.
+ 
+1.3 EXCEPT AS SET FORTH ABOVE, PRODUCTS ARE PROVIDED "AS IS" AND "WITH ALL FAULTS". FLUO Technology DISCLAIMS ALL OTHER CONVENTIONAL WARRANTIES, EXPRESS OR IMPLIED, REGARDING PRODUCTS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+ 
+1.4 The Customer agrees that prior to using any systems that include FLUO Technology products, the Customer  shall test at their own risk and liability such systems and the functionality of the products as used in such systems.
+ 
+FLUO Technology may provide free of charge some suggestions on the technical possibilities, applications or design customization of its products, as well as of the relative  quality characterization, reliability data or other suggestions. The Customer acknowledges and agrees that providing these suggestions shall not expand or otherwise alter FLUO Technology’s warranties, as set forth above, and that no additional obligations or liabilities shall arise from FLUO Technology considering that it providesing such simple suggestions without entering into the merits of the specific uses of its products that each purchaser intends to make.
+ 
+1.5 FLUO Technology products are not authorized nor suitable for use in safety-critical applications where a failure of the FLUO Technology product would reasonably be expected to cause severe personal injury or death. Safety-critical applications include, without limitation, life support devices and systems, equipment or systems for the operation of nuclear facilities and weapons systems. FLUO Technology products are neither designed nor intended for use in military or aerospace applications or environments, nor for automotive applications or the automotive environment. The Customer acknowledges and agrees that any such prohibited use of FLUO Technology products is solely at the Customer’s risk.
+
+1.6 The Customer acknowledges and agrees that the Customer is the sole responsible for compliance with all legal, regulatory and safety-related requirements concerning any use of FLUO Technology products in the Customer’s application, notwithstanding any applications-related information or support that may be provided by FLUO Technology.
+ 
+2. Consequential Damages Waiver.
+ 
+In no event shall FLUO Technology be liable to the Customer or any third parties for any special, collateral,  indirect, punitive, incidental, consequential or exemplary damages in connection with or arising out of the products provided hereunder, regardless of whether FLUO Technology has been advised of the possibility of such damages. This section will survive the termination of the warranty period.
+ 
+ 
+3. Changes to Speciﬁcations.
+ 
+FLUO Technology may make changes to Specifications and products’ descriptions on its website at any time, without notice. Since the products constitute an open source in continuous development and implementation, the Customer must not rely on the absence or characteristics of any features or instructions marked "reserved“ or "undeﬁned". FLUO Technology reserves these for future deﬁnition and shall have no responsibility whatsoever for conﬂicts or incompatibilities arising from future changes to the above. The product information on the website or materials is subject to change without notice. Do not ﬁnalize a product design/technical  specifications with the above said information.
